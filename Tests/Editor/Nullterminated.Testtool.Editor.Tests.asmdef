@@ -1,0 +1,14 @@
+{
+    "name": "Nullterminated.Testtool.Editor.Tests",
+    "references": [
+        "Nullterminated.Testtool.Editor",
+        "Nullterminated.Testtool"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

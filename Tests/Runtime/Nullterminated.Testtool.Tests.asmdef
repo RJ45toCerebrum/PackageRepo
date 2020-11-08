@@ -1,0 +1,11 @@
+{
+    "name": "Nullterminated.Testtool.Tests",
+    "references": [
+        "Nullterminated.Testtool"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

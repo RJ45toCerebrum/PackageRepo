@@ -1,0 +1,10 @@
+{
+    "name": "Nullterminated.Testtool.Editor",
+    "references": [
+      "Nullterminated.Testtool"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
